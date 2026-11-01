@@ -6,4 +6,4 @@
 ## How to Run
 1. Clone or download this repository.
 2. Open `index.html` in any modern web browser. 
-## Published Website - GitHub Pages: ()
+## Published Website: https://github.com/Homiammsum
