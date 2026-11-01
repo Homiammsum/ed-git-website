@@ -1,6 +1,6 @@
- .vscode/ 
- .idea/ 
- .DS\_Store 
- Thumbs.db 
- *.tmp 
- *.log
+.vscode/ 
+.idea/ 
+.DS\_Store 
+Thumbs.db 
+*.tmp 
+*.log
